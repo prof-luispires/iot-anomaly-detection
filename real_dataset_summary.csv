@@ -1,0 +1,9 @@
+scenario_id,scenario_name,samples,anomalies,anomaly_rate_pct,location,boardid,file
+REAL_509,Real sensor series - Docklands Library - board 509,19119,4364,22.825,Docklands Library,509,real_sensor_board_509.csv
+REAL_510,Real sensor series - Docklands Library - board 510,12038,2939,24.414,Docklands Library,510,real_sensor_board_510.csv
+REAL_506,Real sensor series - Docklands Library - board 506,6626,1801,27.181,Docklands Library,506,real_sensor_board_506.csv
+REAL_511,Real sensor series - Docklands Library - board 511,4598,1100,23.923,Docklands Library,511,real_sensor_board_511.csv
+REAL_507,Real sensor series - Fitzroy Gardens - board 507,2918,583,19.979,Fitzroy Gardens,507,real_sensor_board_507.csv
+REAL_505,Real sensor series - Fitzroy Gardens - board 505,2915,350,12.007,Fitzroy Gardens,505,real_sensor_board_505.csv
+REAL_501,Real sensor series - Fitzroy Gardens - board 501,2903,764,26.318,Fitzroy Gardens,501,real_sensor_board_501.csv
+REAL_508,Real sensor series - Fitzroy Gardens - board 508,2728,460,16.862,Fitzroy Gardens,508,real_sensor_board_508.csv
